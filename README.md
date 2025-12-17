@@ -25,7 +25,7 @@ This project focuses on **brain tumour detection from MRI images** using **data 
 
 **The dataset contains labeled MRI images of different brain tumour types and normal cases, suitable for supervised learning.**
 
----
+
 
 ## 🧠 Model Reference
 
@@ -34,7 +34,7 @@ This project focuses on **brain tumour detection from MRI images** using **data 
 
 **Used as a reference/baseline for architecture and performance comparison.**
 
----
+
 
 ## 🔍 Project Workflow (Jupyter Notebook)
 
@@ -57,7 +57,7 @@ This project focuses on **brain tumour detection from MRI images** using **data 
    * Confusion Matrix
 6. **Prediction & Visualization**
 
----
+
 
 ## 🛠️ Tools & Technologies
 
@@ -69,7 +69,7 @@ This project focuses on **brain tumour detection from MRI images** using **data 
 * Matplotlib
 * Scikit-learn
 
----
+
 
 ## 🚀 How to Run
 
@@ -82,22 +82,13 @@ jupyter notebook
 
 **Open `brain_tumour_detection.ipynb` and run all cells.**
 
----
+
 
 ## 🎯 Research Areas
 
 **Machine Learning · Data Science · Deep Learning · Medical Image Processing · Computer Vision**
 
----
-
-## 📝 Notes
-
-* Main implementation is **notebook-based**
-* Suitable for **academic projects, CSC scholarship portfolio, and research demonstration**
-* Can be extended using **transfer learning (ResNet, EfficientNet, DenseNet)**
-* HTML file is included only for basic visualization/demo
-
----
+## Results
 <img width="1484" height="678" alt="output" src="https://github.com/user-attachments/assets/fadf6f36-7c9b-4ab5-8674-e8fd702acd69" />
 <img width="820" height="402" alt="output1" src="https://github.com/user-attachments/assets/0dcdd2f4-dd61-4356-9361-87f24ddf84e2" />
 <img width="662" height="556" alt="output2" src="https://github.com/user-attachments/assets/62044b8d-e0e2-46ea-b175-ce7a7349756c" />
@@ -108,11 +99,8 @@ jupyter notebook
 <img width="389" height="412" alt="output7" src="https://github.com/user-attachments/assets/02b1b846-f63f-4ecb-b751-5809cceae2fd" />
 
 
-## 📌 Disclaimer
 
-This project is intended for **educational and research purposes only**, not for clinical diagnosis.
 
----
  ## Author
  
  **HOSEN ARAFAT** 
@@ -122,4 +110,4 @@ This project is intended for **educational and research purposes only**, not for
 **If anyone wants a walkthrough or explanation, feel free to reach out!**
 
 
----
+
