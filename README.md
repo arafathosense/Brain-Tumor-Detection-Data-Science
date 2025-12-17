@@ -2,7 +2,7 @@
 
 This project focuses on **brain tumour detection from MRI images** using **data science and deep learning techniques**. The core implementation is done using **Jupyter Notebook**, with additional Python and HTML files for testing and demonstration purposes.
 
----
+
 
 ## 📂 Repository Structure
 
